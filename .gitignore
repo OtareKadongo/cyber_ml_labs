@@ -1,0 +1,12 @@
+# Virtual Environments sandbox data
+.venv/
+venv/
+ENV/
+
+# Python cache and compilation files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local environment configuration variables
+.env
